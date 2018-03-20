@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="start_timer">Start Timer</string>
+    <string name="teamA">Team A</string>
+    <string name="penalty">Penalty</string>
+    <string name="dropGoal">Drop goal</string>
+    <string name="conversion">Conversion</string>
+    <string name="try5">Try</string>
+    <string name="teamB">Team B</string>
+
+</resources>

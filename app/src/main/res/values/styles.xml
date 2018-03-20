@@ -1,0 +1,23 @@
+<resources>
+
+    <dimen name="line1">1dp</dimen>
+    <dimen name="padding4">4dp</dimen>
+    <dimen name="margin16">16dp</dimen>
+    <dimen name="margin24">24dp</dimen>
+    <dimen name="margin8">8dp</dimen>
+    <dimen name="textSize56">56sp</dimen>
+    <dimen name="margin11">11dp</dimen>
+    <dimen name="textSize20">20sp</dimen>
+
+    <color name="color_black">#000000</color>
+    <color name="color_green">#2e7d32</color>
+    <color name="color_orange">#FF9800</color>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">#2e7d32</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#2e7d32</item>
+    </style>
+</resources>
